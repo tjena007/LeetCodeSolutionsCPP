@@ -1,2 +1,3 @@
 # LeetCodeSolutionsCPP
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub).
+Collection of programming questions I have solved on LeetCode.
+I use C++ to solve the problems.
