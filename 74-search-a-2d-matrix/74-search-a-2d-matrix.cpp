@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool search(vector<int> m,int target){
+    bool search(vector<int>& m,int target){
         int low=0,high=m.size()-1;
         while(low <= high){
             int mid = (low+high)/2;
