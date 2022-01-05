@@ -3,7 +3,7 @@ public:
     bool canConstruct(string ransomNote, string magazine) {
         bool ans = true;
         
-        map<char,int> m;
+        unordered_map<char,int> m;
         
         for(auto i: magazine){
             m[i]++;
