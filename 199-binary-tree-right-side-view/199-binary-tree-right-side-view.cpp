@@ -11,40 +11,21 @@
  */
 class Solution {
 public:
+    void generateView(TreeNode* node,int level,vector<int>& ans){
+        if(node == NULL){
+            return;
+        }
+        if(ans.size() == level){
+            ans.push_back(node->val);
+        }
+        generateView(node->right,level+1,ans);
+        generateView(node->left,level+1,ans);
+        
+    }
     vector<int> rightSideView(TreeNode* root) {
         vector<int> ans;
-        if(root == NULL){
-            return ans;
-        }
-        map<int,int> nodes;
-        queue<pair<TreeNode*,int>> todo;
         
-        todo.push({root,0});
-        
-        while(!todo.empty()){
-            int size = todo.size();
-            for(int i=0;i<size;i++){
-                auto p = todo.front();
-                todo.pop();
-                TreeNode* node = p.first;
-                //cout << node->val << endl;
-                int x=p.second;
-                if(nodes.find(x) == nodes.end()){
-                    nodes[x] = node->val;
-                }
-                
-                if(node->right != NULL){
-                    todo.push({node->right,x+1});
-                }
-                if(node->left != NULL){
-                    todo.push({node->left,x+1});
-                }
-            }
-        }
-        
-        for(auto i: nodes){
-            ans.push_back(i.second);
-        }
+        generateView(root,0,ans);
         
         return ans;
     }
