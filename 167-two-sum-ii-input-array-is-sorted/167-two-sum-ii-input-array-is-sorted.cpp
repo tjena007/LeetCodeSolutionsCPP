@@ -15,7 +15,6 @@ public:
             else{
                 low++;
             }
-            
         }
         
         return ans;
