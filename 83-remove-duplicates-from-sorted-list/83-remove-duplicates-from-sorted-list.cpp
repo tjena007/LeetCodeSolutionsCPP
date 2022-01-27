@@ -25,13 +25,10 @@ public:
             else if(temp->val == temp->next->val && temp->next->next != NULL){
                 temp->next = temp->next->next;
             }
-            
             else{
                 temp = temp->next;
             }
         }
-        
-        
         return head;
     }
 };
