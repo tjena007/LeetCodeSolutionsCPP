@@ -14,8 +14,8 @@ public:
                 if(nums[low]+nums[high] == sum && (low!=i && high != i)){
                     vector<int> s = {nums[low],nums[high],nums[i]};
                     sort(s.begin(),s.end());
-                    // se.insert(s);
-                    ans.push_back(s);
+                    se.insert(s);
+                    //ans.push_back(s);
                     
                     while (low<high && nums[low] == nums[low+1]){
                         low++; 
@@ -37,8 +37,11 @@ public:
             }
         }
         
-        sort(ans.begin(),ans.end());
-        ans.erase(unique(ans.begin(), ans.end()), ans.end());
+        for(auto i : se){
+            ans.push_back(i);
+        }
+        
+       
         
         return ans;
         
