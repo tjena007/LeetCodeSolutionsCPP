@@ -9,8 +9,6 @@ public:
             }
         }
         
-        // cout << pal;
-        
         for(int i=0;i<pal.size()/2;i++){
             if(pal[i] != pal[pal.size()-1-i]) return false;
         }
