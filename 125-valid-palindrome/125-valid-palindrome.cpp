@@ -1,19 +1,20 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string s1;
+        string pal = "";
+        
         for(auto i: s){
-            if((i>= 'a' && i<='z') || (i>= 'A' && i<='Z') || (i>= '0' && i<='9') ){
-                s1+=i;
+            if((i>='a' && i<='z') || (i>='A' && i<='Z') || (i>='0' && i<='9') ){
+                pal+=tolower(i);
             }
         }
-        transform(s1.begin(), s1.end(), s1.begin(), ::tolower);
-        for(auto i : s1){
-            cout << i ;
-        }
-        string s2 = s1;
-        reverse(s2.begin(),s2.end());
         
-        return (s2==s1);
+        // cout << pal;
+        
+        for(int i=0;i<pal.size()/2;i++){
+            if(pal[i] != pal[pal.size()-1-i]) return false;
+        }
+        
+        return true;
     }
 };
