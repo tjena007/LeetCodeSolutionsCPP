@@ -4,14 +4,11 @@ public:
         unordered_map<int,int> m;
         
         for(auto i : nums){
-            if(m[i]>0){
-                return true;
-            }
-            else{
-                m[i]++;
-            }
+            m[i]++;
+            if(m[i] > 1) return true;
         }
         
         return false;
+        
     }
 };
