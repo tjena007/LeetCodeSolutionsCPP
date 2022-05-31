@@ -1,6 +1,5 @@
 class MinStack {
 public:
-    // int minNum  = INT_MAX;
     vector<int> nums;
     vector<int> minnums;
     MinStack() {
@@ -9,7 +8,6 @@ public:
     
     void push(int val) {
         nums.push_back(val);
-        // int endval = minnums[minnums.size()-1];
         int minval = minnums.size()>0 ? min(val,minnums[minnums.size()-1]) : val;
         minnums.push_back(minval);
     }
