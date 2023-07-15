@@ -1,12 +1,12 @@
 class Solution {
 public:
     bool dfs(vector<vector<char>>& board, int row, int col,string& word,int index,vector<vector<bool>>& vis){
+        //check boundary conditions
         if(index == word.size()-1){
-            // cout << board[row][col] << " here" << endl;
             if(board[row][col] == word[index]) return true;
             return false;
         }
-        
+        //to iterate in 4 directions of the cell
         int delrow[] = {+1,0,-1,0};
         int delcol[] = {0,+1,0,-1};
 
@@ -15,9 +15,12 @@ public:
             int ncol = col + delcol[i];
             if(nrow>=0 && nrow<board.size() && ncol>=0 && ncol<board[0].size() 
 && board[nrow][ncol] == word[index+1] && vis[nrow][ncol] == false){
+                
+                //if character matches to next character in word, continue
                 vis[nrow][ncol] = true;
-                // cout <<board[row][col] << "  " << nrow << " " << ncol << endl;
                 if(dfs(board,nrow,ncol,word,index+1,vis)==true) return true;
+
+                //if not a match, unvisit it so it can be used by other element
                 vis[nrow][ncol] = false;
             }
         }
