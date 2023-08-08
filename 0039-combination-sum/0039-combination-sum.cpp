@@ -1,37 +1,23 @@
 class Solution {
 public:
-    set<vector<int>> st;
-
-    void findCombinations(vector<int>& candidates,vector<int> curr,int target){
-        if(target == 0){
-            sort(curr.begin(),curr.end());
-            st.insert(curr);
-            return;
-        }
-        // if(target < candidates[0]) return;
-
-        for(int i=0;i<candidates.size();i++){
-            int diff = target - candidates[i];
-            if(diff < 0) continue;
-            else{
-                vector<int> temp = curr;
-                temp.push_back(candidates[i]);
-                findCombinations(candidates,temp,diff);
-            }   
-        }
-        
-    }
-    
+    void find(int ind,int target,vector<int>& candidates,   vector<vector<int>>&v, vector<int>&n){
+      if(ind==candidates.size()){
+          if(target==0){
+              v.push_back(n);
+          }
+          return;
+      }
+      if(candidates[ind]<=target){
+          n.push_back(candidates[ind]);
+          find(ind,target-candidates[ind],candidates,v,n);
+          n.pop_back();
+      }
+       find(ind+1,target,candidates,v,n);
+  }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> ans;
-        findCombinations(candidates,{},target);        
-
-        for(auto it: st){
-            ans.push_back(it);
-        }
-
-        return ans;
-        
-        
+        vector<vector<int>>v;
+        vector<int>n;
+        find(0,target,candidates,v,n);
+return v;
     }
 };
