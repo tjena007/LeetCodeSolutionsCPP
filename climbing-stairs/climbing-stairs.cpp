@@ -15,6 +15,3 @@ public:
         return res[n] = calc(n-1,res) + calc(n-2,res);
     }
 };
-
-// 3
-//2 + 1
