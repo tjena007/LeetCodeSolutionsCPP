@@ -13,56 +13,39 @@ public:
         vector<vector<string>> ans;
         vector<string> temp(n,string(n,'.'));
         
-        solve(0,n,temp,ans);
+        //row array
+        vector<int> rowCheck(n,0);
+        //upper diag arr
+        vector<int> ulCheck(2*n - 1,0);
+        //lower diag arr
+        vector<int> blCheck(2*n - 1,0);
+        
+        solve(0,n,temp,ans,rowCheck,ulCheck,blCheck);
         
         return ans;
     }
     
-    void solve(int col,int n,vector<string>& temp,vector<vector<string>>& ans){
+    void solve(int col,int n,vector<string>& temp, vector<vector<string>>& ans,vector<int>& rowCheck,vector<int>& ulCheck,vector<int>& blCheck){
         if(col == n){
             ans.push_back(temp);
             return;
         }
         
         for(int i=0;i<n;i++){
-            if(check(col,i,temp)){
-                
+            if(rowCheck[i] == 0 && blCheck[i + col] == 0 && ulCheck[n-1 + col - i] == 0){
                 temp[i][col] = 'Q';
-                solve(col+1,n,temp,ans);
+                rowCheck[i] = 1;
+                blCheck[i + col] = 1;
+                ulCheck[n-1 + col -i] = 1;
+                
+                solve(col+1,n,temp,ans,rowCheck,ulCheck,blCheck);
                 temp[i][col] = '.';
+                rowCheck[i] = 0;
+                blCheck[i + col] = 0;
+                ulCheck[n-1 + col -i] = 0;
             }
         }
     }
     
-    bool check(int col,int row,vector<string>& temp){
-        //check row
-        int r = row;
-        int c = col;
-        
-        while(c>=0){
-            if(temp[r][c] == 'Q') return false;
-            c--;
-        }
-        c = col;
-        
-        //check upper left diag
-        while(c>=0 && r>=0){
-            if(temp[r][c] == 'Q') return false;
-            c--;
-            r--;
-        }
-        
-        r = row;
-        c = col;
-        
-        //check lower left diag
-        while(c>=0 && r<temp.size()){
-            if(temp[r][c] == 'Q') return false;
-            c--;
-            r++;
-        }
-        
-        return true;
-        
-    }
+    
 };
