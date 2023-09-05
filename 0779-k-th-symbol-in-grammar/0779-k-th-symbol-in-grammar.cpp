@@ -1,23 +1,23 @@
 class Solution {
 public:
-    int kthGrammar(int n, int k) {
+   int kthGrammar(int n, int k) {
         // string nums = "0";
-        if(n == 1 && k == 1)
+        return calc(n,k);
+    }
+    
+    int calc(int n,int k){
+        if(n == 1){
             return 0;
-        
-        //length of the row
-        int lengthOfRow = pow(2, n-1);
-        //calculating the mid
-        int mid = lengthOfRow/2;
-        
-        //if k belongs to the first half
-        if(k <= mid){
-            return kthGrammar(n-1, k);
         }
-        //if k belongs to the second half
-        else{
-            return !(kthGrammar(n-1, k-mid));
-        }
+        
+        int parent = calc(n-1,k/2 + k%2);
+        
+        bool isOdd = (k%2 == 1);
+       if(parent == 0){
+           return isOdd ? 0 : 1;
+       }
+       
+       return isOdd ? 1 : 0; 
     }
 
 };
