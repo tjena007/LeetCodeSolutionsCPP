@@ -21,4 +21,12 @@ I use C++ to solve the problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0039-combination-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
