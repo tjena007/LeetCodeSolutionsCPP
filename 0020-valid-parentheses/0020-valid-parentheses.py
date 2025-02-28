@@ -10,7 +10,7 @@ class Solution:
                 elif st and c == '}' and st[-1] == '{':
                     st.pop()
                 else:
-                    st.append(c)
+                    return False
             else:
                 st.append(c)
         
