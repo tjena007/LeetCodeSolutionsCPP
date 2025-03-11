@@ -31,6 +31,7 @@ I use C++ to solve the problems.
 | [0039-combination-sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
+| [0238-product-of-array-except-self](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
 |  |
@@ -84,4 +85,8 @@ I use C++ to solve the problems.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
