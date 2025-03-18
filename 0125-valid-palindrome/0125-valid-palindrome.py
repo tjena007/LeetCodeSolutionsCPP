@@ -2,7 +2,7 @@ class Solution:
     def isPalindrome(self, s: str) -> bool:
         l,r = 0,len(s) - 1
         def valid(ch):
-            return ((ch >= "a" and ch <= "z") or (ch >= "A" and ch <= "Z") or (ch >= "0" and ch <= "9"))
+            return ch.isalnum()
 
         while l <= r:
             if valid(s[l]) == False:
