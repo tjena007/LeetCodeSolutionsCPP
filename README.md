@@ -18,6 +18,7 @@ I use C++ to solve the problems.
 | [0049-group-anagrams](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,6 +52,7 @@ I use C++ to solve the problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0125-valid-palindrome) |
 | [0295-find-median-from-data-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
