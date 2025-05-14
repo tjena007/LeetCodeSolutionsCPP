@@ -7,6 +7,7 @@ I use C++ to solve the problems.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0128-longest-consecutive-sequence) |
@@ -30,6 +31,7 @@ I use C++ to solve the problems.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
