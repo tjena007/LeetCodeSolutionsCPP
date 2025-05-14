@@ -11,6 +11,7 @@ I use C++ to solve the problems.
 | [0049-group-anagrams](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -20,6 +21,7 @@ I use C++ to solve the problems.
 | [0076-minimum-window-substring](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,6 +68,7 @@ I use C++ to solve the problems.
 | ------- |
 | [0049-group-anagrams](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
