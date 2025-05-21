@@ -14,6 +14,7 @@ I use C++ to solve the problems.
 | [0128-longest-consecutive-sequence](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
@@ -44,6 +45,7 @@ I use C++ to solve the problems.
 | [0215-kth-largest-element-in-an-array](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0380-insert-delete-getrandom-o1) |
 ## Backtracking
 |  |
@@ -64,6 +66,7 @@ I use C++ to solve the problems.
 | ------- |
 | [0125-valid-palindrome](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0125-valid-palindrome) |
 | [0295-find-median-from-data-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0295-find-median-from-data-stream) |
+| [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
 ## Design
 |  |
 | ------- |
@@ -77,6 +80,7 @@ I use C++ to solve the problems.
 | [0242-valid-anagram](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -121,4 +125,8 @@ I use C++ to solve the problems.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0380-insert-delete-getrandom-o1) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
