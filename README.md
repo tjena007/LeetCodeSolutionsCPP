@@ -42,6 +42,7 @@ I use C++ to solve the problems.
 | [0049-group-anagrams](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
@@ -65,6 +66,7 @@ I use C++ to solve the problems.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
 ## Design
@@ -128,5 +130,6 @@ I use C++ to solve the problems.
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
