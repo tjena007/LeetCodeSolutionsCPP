@@ -4,7 +4,8 @@ class Solution:
             return []
 
         nums.sort()
-        s = set()
+        # s = set()
+        ans = []
         
         for i in range(0,len(nums)):
             if i > 0 and nums[i] == nums[i - 1]:
@@ -14,7 +15,7 @@ class Solution:
 
             while left<right:
                 if nums[left] + nums[right] == target:
-                    s.add((nums[i],nums[left],nums[right]))
+                    ans.append([nums[i],nums[left],nums[right]])
                     # add check to increment the left and right pointers
                     
 
@@ -31,9 +32,9 @@ class Solution:
                 else:
                     left += 1
         
-        ans = []
-        for item in s:
-            ans.append(list(item))
+        
+        # for item in s:
+        #     ans.append(list(item))
         
         return ans
 
