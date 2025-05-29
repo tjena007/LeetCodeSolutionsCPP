@@ -37,6 +37,7 @@ I use C++ to solve the problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0049-group-anagrams) |
@@ -65,6 +66,7 @@ I use C++ to solve the problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0295-find-median-from-data-stream) |
@@ -77,6 +79,7 @@ I use C++ to solve the problems.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0242-valid-anagram) |
