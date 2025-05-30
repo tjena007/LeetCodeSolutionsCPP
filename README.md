@@ -33,6 +33,7 @@ I use C++ to solve the problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0042-trapping-rain-water) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@ I use C++ to solve the problems.
 | [0015-3sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0128-longest-consecutive-sequence) |
@@ -69,6 +71,7 @@ I use C++ to solve the problems.
 | ------- |
 | [0011-container-with-most-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0295-find-median-from-data-stream) |
@@ -141,4 +144,12 @@ I use C++ to solve the problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
