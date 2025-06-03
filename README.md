@@ -34,6 +34,7 @@ I use C++ to solve the problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0155-min-stack) |
 ## Array
 |  |
@@ -47,6 +48,7 @@ I use C++ to solve the problems.
 | [0049-group-anagrams](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0238-product-of-array-except-self) |
@@ -132,6 +134,7 @@ I use C++ to solve the problems.
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
