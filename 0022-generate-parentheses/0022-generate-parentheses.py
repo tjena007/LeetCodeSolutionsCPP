@@ -1,11 +1,10 @@
 class Solution:
     def __init__(self):
-        self.ans = set()
-
+        self.ans = []
     def helper(self, n, s, open, close):
         if open == n and close == n:
             final = "".join(s)
-            self.ans.add(final)
+            self.ans.append(final)
             return
 
         if open < n:
@@ -19,7 +18,7 @@ class Solution:
             s.pop()  # backtrack
 
     def generateParenthesis(self, n: int) -> List[str]:
-        self.ans = set()
+        self.ans = []
         self.helper(n, [], 0, 0)
         print(self.ans)
-        return list(self.ans)
+        return self.ans
