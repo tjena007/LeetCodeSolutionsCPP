@@ -20,6 +20,7 @@ I use C++ to solve the problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
@@ -58,6 +59,7 @@ I use C++ to solve the problems.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
 ## Depth-First Search
@@ -152,6 +154,7 @@ I use C++ to solve the problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
