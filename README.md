@@ -170,4 +170,12 @@ I use C++ to solve the problems.
 | [0084-largest-rectangle-in-histogram](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0883-car-fleet) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
