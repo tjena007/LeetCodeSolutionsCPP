@@ -148,6 +148,7 @@ I use C++ to solve the problems.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
@@ -178,6 +179,7 @@ I use C++ to solve the problems.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0141-linked-list-cycle) |
@@ -185,6 +187,7 @@ I use C++ to solve the problems.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
