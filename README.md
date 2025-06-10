@@ -13,6 +13,7 @@ I use C++ to solve the problems.
 | [0076-minimum-window-substring](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
@@ -97,6 +98,7 @@ I use C++ to solve the problems.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0380-insert-delete-getrandom-o1) |
@@ -187,6 +189,7 @@ I use C++ to solve the problems.
 | [0021-merge-two-sorted-lists](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -197,4 +200,8 @@ I use C++ to solve the problems.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0287-find-the-duplicate-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
