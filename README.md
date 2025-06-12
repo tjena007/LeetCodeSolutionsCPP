@@ -76,6 +76,7 @@ I use C++ to solve the problems.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
+| [0226-invert-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0226-invert-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -213,4 +214,16 @@ I use C++ to solve the problems.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
