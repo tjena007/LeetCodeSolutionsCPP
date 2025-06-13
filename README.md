@@ -76,6 +76,7 @@ I use C++ to solve the problems.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0226-invert-binary-tree) |
@@ -220,6 +221,7 @@ I use C++ to solve the problems.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0226-invert-binary-tree) |
@@ -227,11 +229,13 @@ I use C++ to solve the problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0226-invert-binary-tree) |
