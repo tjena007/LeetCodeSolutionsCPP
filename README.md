@@ -84,6 +84,7 @@ I use C++ to solve the problems.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0572-subtree-of-another-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -233,6 +234,7 @@ I use C++ to solve the problems.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0572-subtree-of-another-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -241,6 +243,7 @@ I use C++ to solve the problems.
 | [0104-maximum-depth-of-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0226-invert-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -253,6 +256,7 @@ I use C++ to solve the problems.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0572-subtree-of-another-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
