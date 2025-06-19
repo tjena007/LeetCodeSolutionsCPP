@@ -76,6 +76,7 @@ I use C++ to solve the problems.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0110-balanced-binary-tree) |
@@ -225,6 +226,7 @@ I use C++ to solve the problems.
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -247,6 +249,7 @@ I use C++ to solve the problems.
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -268,5 +271,6 @@ I use C++ to solve the problems.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
