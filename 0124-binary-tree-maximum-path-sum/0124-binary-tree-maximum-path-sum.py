@@ -8,29 +8,18 @@ class Solution:
     def maxPathSum(self, root: Optional[TreeNode]) -> int:
         self.ans = float('-inf')
 
-        def dfs(root, curSum):
+        def dfs(root):
             if not root:
                 return 0
             
-            # check with just root
-            self.ans = max(self.ans,root.val)
+            leftSum = max(dfs(root.left), 0)
+            rightSum = max(dfs(root.right), 0)
 
-            leftSum = dfs(root.left, curSum)
-            rightSum = dfs(root.right, curSum)
+            # path passing through root
+            self.ans = max(self.ans, root.val + leftSum + rightSum)
 
-            # check with root + left
-            self.ans = max(self.ans, root.val + leftSum)
-            
-            # check with root + right
-            self.ans = max(self.ans, root.val + rightSum)
-            
-            # check with root + left + right
-            self.ans = max(self.ans, root.val + rightSum + leftSum)
-            
-            #return max(root,root + left,root + right)
-            return max(root.val,root.val + leftSum, root.val + rightSum)
+            # return the max one-side path for parent usage
+            return root.val + max(leftSum, rightSum)
         
-
-        dfs(root,0)
-
+        dfs(root)
         return self.ans
