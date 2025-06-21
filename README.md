@@ -28,6 +28,7 @@ I use C++ to solve the problems.
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,6 +86,7 @@ I use C++ to solve the problems.
 | [0226-invert-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -113,6 +115,7 @@ I use C++ to solve the problems.
 | [0146-lru-cache](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0380-insert-delete-getrandom-o1) |
 ## Sorting
 |  |
@@ -239,6 +242,7 @@ I use C++ to solve the problems.
 | [0226-invert-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -250,6 +254,7 @@ I use C++ to solve the problems.
 | [0104-maximum-depth-of-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -264,6 +269,7 @@ I use C++ to solve the problems.
 | [0226-invert-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1544-count-good-nodes-in-binary-tree) |
