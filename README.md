@@ -80,6 +80,7 @@ I use C++ to solve the problems.
 | [0100-same-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -187,6 +188,7 @@ I use C++ to solve the problems.
 | ------- |
 | [0022-generate-parentheses](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -232,6 +234,7 @@ I use C++ to solve the problems.
 | [0102-binary-tree-level-order-traversal](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -256,6 +259,7 @@ I use C++ to solve the problems.
 | [0102-binary-tree-level-order-traversal](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0230-kth-smallest-element-in-a-bst) |
