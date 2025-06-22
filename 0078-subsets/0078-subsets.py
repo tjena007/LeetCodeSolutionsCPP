@@ -1,25 +1,22 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        self.s = set()
-        self.s.add(tuple([]))
-        arr = []
+        ans = []
 
-        def dfs(arr,nums,i):
+        def dfs(arr,i):
             if i == len(nums):
-                self.s.add(tuple(arr))
+                ans.append(arr[:])
                 return
             
             # taken
             arr.append(nums[i])
-            dfs(arr,nums,i+1)
+            dfs(arr,i+1)
 
             # not taken
             arr.pop()
-            dfs(arr,nums,i+1)
+            dfs(arr,i+1)
 
 
-        dfs(arr,nums,0)
-        ans = [list(i) for i in self.s]
+        dfs([],0)
 
         return ans
 
