@@ -1,11 +1,11 @@
 class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
-        self.s = set()
+        ans = []
         candidates.sort()
 
         def dfs(idx,curSum,arr):
             if curSum == target:
-                self.s.add(tuple(arr))
+                ans.append(arr.copy())
                 return
             
             if idx == len(candidates) or curSum > target:
@@ -24,4 +24,4 @@ class Solution:
 
         dfs(0,0,[])
 
-        return [list(i) for i in self.s]
+        return ans
