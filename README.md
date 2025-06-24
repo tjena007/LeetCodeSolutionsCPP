@@ -27,6 +27,7 @@ I use C++ to solve the problems.
 | [0076-minimum-window-substring](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Sliding Window
@@ -81,6 +82,7 @@ I use C++ to solve the problems.
 | [0078-subsets](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -200,6 +202,7 @@ I use C++ to solve the problems.
 | [0022-generate-parentheses](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0131-palindrome-partitioning) |
 ## Monotonic Stack
 |  |
 | ------- |
