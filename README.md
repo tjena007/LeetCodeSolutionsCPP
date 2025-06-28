@@ -78,6 +78,7 @@ I use C++ to solve the problems.
 | [0695-max-area-of-island](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0883-car-fleet) |
+| [1036-rotting-oranges](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1036-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,6 +119,7 @@ I use C++ to solve the problems.
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1036-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -286,6 +288,7 @@ I use C++ to solve the problems.
 | [0226-invert-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
