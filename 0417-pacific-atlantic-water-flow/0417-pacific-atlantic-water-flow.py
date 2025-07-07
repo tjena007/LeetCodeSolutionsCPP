@@ -9,10 +9,10 @@ class Solution:
             
             visited.add((row,col))
 
-            dfs(row,col+1,visited,heights[row][col])
-            dfs(row-1,col,visited,heights[row][col])
-            dfs(row,col-1,visited,heights[row][col])
-            dfs(row+1,col,visited,heights[row][col])
+            directions = [(0,1),(-1,0),(0,-1),(1,0)]
+
+            for di,dj in directions:
+                dfs(row+di,col+dj,visited,heights[row][col])
 
         # top row and bottom to check from pacific and atlantic 
         for c in range(COLS):
