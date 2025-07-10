@@ -4,31 +4,29 @@ class Solution:
         # build the adjancy list
 
         graph = defaultdict(list)
+        in_degree = [0] * numCourses
 
+        # Step 1: Build the graph and in-degree array
         for dest,src in prerequisites:
             graph[src].append(dest)
+            in_degree[dest] += 1
         
-        visited = [0] * numCourses
-
-        # apply dfs
-        def dfs(course):
-            if visited[course] == 1:
-                return False
-            if visited[course] == 2:
-                return True
+        # Step 2: Queue for all courses with no prerequisites
+        queue = deque([i for i in range(numCourses) if in_degree[i] == 0])
         
+        #bfs
+        completed = 0
+        while queue:
+            course = queue.popleft()
+            completed += 1
 
-            visited[course] = 1
             for neighbor in graph[course]:
-                if not dfs(neighbor):
-                    return False
-            
+                in_degree[neighbor] -= 1
+                if in_degree[neighbor] == 0:
+                    queue.append(neighbor)
+        
 
-            visited[course] = 2 #if we reach this point, means no cycle after this node since we checked all the paths
-            return True
+        return completed == numCourses
+
+
         
-        for i in range(numCourses):
-            if not dfs(i):
-                return False
-        
-        return True
