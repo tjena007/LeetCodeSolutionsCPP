@@ -10,10 +10,6 @@ class Solution:
 
         queue = deque([i for i in range(numCourses) if in_degree[i]==0])
 
-
-        if not queue:
-            return []
-        
         ans = []
         while queue:
             node = queue.popleft()
