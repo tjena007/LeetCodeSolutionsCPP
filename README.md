@@ -120,6 +120,7 @@ I use C++ to solve the problems.
 | [0572-subtree-of-another-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0744-network-delay-time) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
@@ -171,6 +172,7 @@ I use C++ to solve the problems.
 | [0215-kth-largest-element-in-an-array](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0744-network-delay-time) |
 ## Data Stream
 |  |
 | ------- |
@@ -307,6 +309,7 @@ I use C++ to solve the problems.
 | [0417-pacific-atlantic-water-flow](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -347,9 +350,14 @@ I use C++ to solve the problems.
 | [0207-course-schedule](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
