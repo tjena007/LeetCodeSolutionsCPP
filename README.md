@@ -83,6 +83,7 @@ I use C++ to solve the problems.
 | [0739-daily-temperatures](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0883-car-fleet) |
 | [1036-rotting-oranges](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1036-rotting-oranges) |
+| [1706-min-cost-to-connect-all-points](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1706-min-cost-to-connect-all-points) |
 ## Backtracking
 |  |
 | ------- |
@@ -209,6 +210,7 @@ I use C++ to solve the problems.
 | [0200-number-of-islands](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0695-max-area-of-island) |
+| [1706-min-cost-to-connect-all-points](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1706-min-cost-to-connect-all-points) |
 ## Math
 |  |
 | ------- |
@@ -353,6 +355,7 @@ I use C++ to solve the problems.
 | [0332-reconstruct-itinerary](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0744-network-delay-time) |
+| [1706-min-cost-to-connect-all-points](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -366,4 +369,8 @@ I use C++ to solve the problems.
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0332-reconstruct-itinerary) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
