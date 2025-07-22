@@ -81,6 +81,7 @@ I use C++ to solve the problems.
 | [0417-pacific-atlantic-water-flow](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0739-daily-temperatures) |
+| [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
 | [0883-car-fleet](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0883-car-fleet) |
 | [1036-rotting-oranges](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1036-rotting-oranges) |
 | [1706-min-cost-to-connect-all-points](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1706-min-cost-to-connect-all-points) |
@@ -123,6 +124,7 @@ I use C++ to solve the problems.
 | [0684-redundant-connection](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
@@ -133,6 +135,7 @@ I use C++ to solve the problems.
 | [0200-number-of-islands](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1036-rotting-oranges) |
 ## Two Pointers
 |  |
@@ -175,6 +178,7 @@ I use C++ to solve the problems.
 | [0295-find-median-from-data-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
 ## Data Stream
 |  |
 | ------- |
@@ -210,6 +214,7 @@ I use C++ to solve the problems.
 | [0200-number-of-islands](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
 | [1706-min-cost-to-connect-all-points](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1706-min-cost-to-connect-all-points) |
 ## Math
 |  |
@@ -227,6 +232,7 @@ I use C++ to solve the problems.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
+| [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
 ## Greedy
 |  |
 | ------- |
@@ -313,6 +319,7 @@ I use C++ to solve the problems.
 | [0684-redundant-connection](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
