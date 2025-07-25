@@ -81,6 +81,7 @@ I use C++ to solve the problems.
 | [0417-pacific-atlantic-water-flow](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
 | [0883-car-fleet](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0883-car-fleet) |
 | [1036-rotting-oranges](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1036-rotting-oranges) |
@@ -248,6 +249,7 @@ I use C++ to solve the problems.
 | [0070-climbing-stairs](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0131-palindrome-partitioning) |
+| [0747-min-cost-climbing-stairs](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Monotonic Stack
 |  |
