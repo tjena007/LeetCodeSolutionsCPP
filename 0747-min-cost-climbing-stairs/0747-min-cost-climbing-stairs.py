@@ -1,23 +1,9 @@
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
-        N = len(cost) + 1
-        dp= [float('inf')] * N
-        top = N - 1
+        n = len(cost)
+        dp = [0] * (n + 1)  # dp[i] = min cost to reach step i
 
-        def dfs(n):
-            if n < 0:
-                return 0
-            if dp[n] != float('inf'):
-                return dp[n]
-            
-            price = min(dfs(n-1),dfs(n-2))
-            
-            if(n == top):
-                return price
-            
-            dp[n] = price + cost[n]
+        for i in range(2, n + 1):
+            dp[i] = min(dp[i-1] + cost[i-1], dp[i-2] + cost[i-2])
 
-            return dp[n]
-            
-
-        return dfs(top)
+        return dp[n]
