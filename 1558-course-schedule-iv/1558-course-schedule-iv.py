@@ -13,7 +13,7 @@ class Solution:
             reachable = set()
             for nei in graph[node]:
                 reachable.add(nei)
-                reachable |= dfs(nei)  # union with neighbor's reachable set
+                reachable = reachable.union(dfs(nei))
             
             cache[node] = reachable
             return reachable
@@ -30,7 +30,6 @@ class Solution:
             else:
                 ans.append(False)
         
-
         return ans
 
         
