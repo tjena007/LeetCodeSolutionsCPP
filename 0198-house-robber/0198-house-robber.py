@@ -1,10 +1,12 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        N = len(nums) + 1
-        dp = [0] * N
-        dp[1] = nums[0]
+        cost1,cost2 = 0,0
 
-        for i in range(2,N):
-            dp[i] = max(dp[i-2]+ nums[i-1], dp[i-1])
+        for num in nums:
+            val = max(cost1 + num,cost2)
+            cost1 = cost2
+            cost2 = val
         
-        return dp[N-1]
+        return cost2
+
+        
