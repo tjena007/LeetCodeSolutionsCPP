@@ -134,6 +134,7 @@ I use C++ to solve the problems.
 | [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1558-course-schedule-iv) |
 ## Matrix
 |  |
 | ------- |
@@ -345,6 +346,7 @@ I use C++ to solve the problems.
 | [0803-cheapest-flights-within-k-stops](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1558-course-schedule-iv) |
 ## Binary Tree
 |  |
 | ------- |
@@ -386,12 +388,14 @@ I use C++ to solve the problems.
 | [0684-redundant-connection](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1558-course-schedule-iv](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1558-course-schedule-iv) |
 | [1706-min-cost-to-connect-all-points](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0210-course-schedule-ii) |
+| [1558-course-schedule-iv](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1558-course-schedule-iv) |
 ## Shortest Path
 |  |
 | ------- |
