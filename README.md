@@ -36,6 +36,7 @@ I use C++ to solve the problems.
 | [0131-palindrome-partitioning](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0647-palindromic-substrings](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -158,6 +159,7 @@ I use C++ to solve the problems.
 | [0287-find-the-duplicate-number](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
+| [0647-palindromic-substrings](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0647-palindromic-substrings) |
 ## Design
 |  |
 | ------- |
@@ -258,6 +260,7 @@ I use C++ to solve the problems.
 | [0198-house-robber](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0322-coin-change) |
+| [0647-palindromic-substrings](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Monotonic Stack
