@@ -82,6 +82,7 @@ I use C++ to solve the problems.
 | [0215-kth-largest-element-in-an-array](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
@@ -249,6 +250,7 @@ I use C++ to solve the problems.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
 | [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
 ## Greedy
@@ -269,6 +271,7 @@ I use C++ to solve the problems.
 | [0152-maximum-product-subarray](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0322-coin-change) |
 | [0473-matchsticks-to-square](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0473-matchsticks-to-square) |
 | [0647-palindromic-substrings](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0647-palindromic-substrings) |
