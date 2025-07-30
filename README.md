@@ -38,6 +38,7 @@ I use C++ to solve the problems.
 | [0242-valid-anagram](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0647-palindromic-substrings) |
+| [1304-longest-happy-string](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1304-longest-happy-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -192,6 +193,7 @@ I use C++ to solve the problems.
 | [0744-network-delay-time](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1304-longest-happy-string](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1304-longest-happy-string) |
 ## Data Stream
 |  |
 | ------- |
@@ -251,6 +253,7 @@ I use C++ to solve the problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0011-container-with-most-water) |
+| [1304-longest-happy-string](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1304-longest-happy-string) |
 ## Dynamic Programming
 |  |
 | ------- |
