@@ -87,6 +87,7 @@ I use C++ to solve the problems.
 | [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0417-pacific-atlantic-water-flow) |
+| [0473-matchsticks-to-square](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0473-matchsticks-to-square) |
 | [0695-max-area-of-island](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0747-min-cost-climbing-stairs) |
@@ -107,6 +108,7 @@ I use C++ to solve the problems.
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0131-palindrome-partitioning) |
+| [0473-matchsticks-to-square](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0473-matchsticks-to-square) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -268,6 +270,7 @@ I use C++ to solve the problems.
 | [0198-house-robber](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0322-coin-change) |
+| [0473-matchsticks-to-square](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0473-matchsticks-to-square) |
 | [0647-palindromic-substrings](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -302,6 +305,7 @@ I use C++ to solve the problems.
 | [0078-subsets](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0287-find-the-duplicate-number) |
+| [0473-matchsticks-to-square](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0473-matchsticks-to-square) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -418,4 +422,8 @@ I use C++ to solve the problems.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0070-climbing-stairs) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
