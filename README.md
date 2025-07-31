@@ -98,6 +98,7 @@ I use C++ to solve the problems.
 | [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
 | [0883-car-fleet](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0883-car-fleet) |
 | [1036-rotting-oranges](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1036-rotting-oranges) |
+| [1127-last-stone-weight](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1127-last-stone-weight) |
 | [1706-min-cost-to-connect-all-points](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1706-min-cost-to-connect-all-points) |
 ## Backtracking
 |  |
@@ -201,6 +202,7 @@ I use C++ to solve the problems.
 | [0789-kth-largest-element-in-a-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1127-last-stone-weight](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1304-longest-happy-string) |
 ## Data Stream
 |  |
