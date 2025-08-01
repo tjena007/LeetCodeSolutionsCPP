@@ -97,6 +97,7 @@ I use C++ to solve the problems.
 | [0747-min-cost-climbing-stairs](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
 | [0883-car-fleet](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0883-car-fleet) |
+| [1014-k-closest-points-to-origin](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1127-last-stone-weight) |
 | [1706-min-cost-to-connect-all-points](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1706-min-cost-to-connect-all-points) |
@@ -191,6 +192,7 @@ I use C++ to solve the problems.
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
 | [0883-car-fleet](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0883-car-fleet) |
+| [1014-k-closest-points-to-origin](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -202,6 +204,7 @@ I use C++ to solve the problems.
 | [0789-kth-largest-element-in-a-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1014-k-closest-points-to-origin](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1304-longest-happy-string) |
 ## Data Stream
@@ -215,6 +218,7 @@ I use C++ to solve the problems.
 | [0023-merge-k-sorted-lists](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -228,6 +232,7 @@ I use C++ to solve the problems.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1014-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -249,6 +254,7 @@ I use C++ to solve the problems.
 | [0070-climbing-stairs](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0380-insert-delete-getrandom-o1) |
+| [1014-k-closest-points-to-origin](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1014-k-closest-points-to-origin) |
 ## Randomized
 |  |
 | ------- |
@@ -446,4 +452,8 @@ I use C++ to solve the problems.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0139-word-break) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
