@@ -3,15 +3,10 @@ class Solution:
         heap = []
 
         for x,y in points:
-            distance = math.sqrt(x**2 + y**2)
-            heapq.heappush(heap,(distance,x,y))
+            distance = x**2 + y**2
+            heapq.heappush(heap,(-distance,x,y))
+            if len(heap) > k:
+                heapq.heappop(heap)
         
-
-        ans = []
-        c = 0
-        while heap and c < k:
-            d,x,y = heapq.heappop(heap)
-            ans.append([x,y])
-            c += 1
         
-        return ans
+        return [[x, y] for (_, x, y) in heap]
