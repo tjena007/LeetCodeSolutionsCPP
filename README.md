@@ -22,6 +22,7 @@ I use C++ to solve the problems.
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0380-insert-delete-getrandom-o1) |
+| [0621-task-scheduler](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -92,6 +93,7 @@ I use C++ to solve the problems.
 | [0380-insert-delete-getrandom-o1](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0473-matchsticks-to-square](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0473-matchsticks-to-square) |
+| [0621-task-scheduler](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0747-min-cost-climbing-stairs) |
@@ -191,6 +193,7 @@ I use C++ to solve the problems.
 | [0295-find-median-from-data-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
+| [0621-task-scheduler](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -200,6 +203,7 @@ I use C++ to solve the problems.
 | [0215-kth-largest-element-in-an-array](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
@@ -227,6 +231,7 @@ I use C++ to solve the problems.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -271,6 +276,7 @@ I use C++ to solve the problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0621-task-scheduler) |
 | [1304-longest-happy-string](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1304-longest-happy-string) |
 ## Dynamic Programming
 |  |
