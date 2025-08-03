@@ -21,6 +21,7 @@ I use C++ to solve the problems.
 | [0242-valid-anagram](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
+| [0355-design-twitter](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0621-task-scheduler](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0621-task-scheduler) |
 ## String
@@ -181,6 +182,7 @@ I use C++ to solve the problems.
 | [0155-min-stack](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0355-design-twitter](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Sorting
@@ -203,6 +205,7 @@ I use C++ to solve the problems.
 | [0215-kth-largest-element-in-an-array](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -316,6 +319,7 @@ I use C++ to solve the problems.
 | [0141-linked-list-cycle](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
 | ------- |
