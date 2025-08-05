@@ -1,31 +1,25 @@
+import heapq
+
 class MedianFinder:
 
     def __init__(self):
-        self.minHeap = []  # higher half
-        self.maxHeap = []  # lower half (store as negative values)
+        self.minHeap = []  # stores larger half
+        self.maxHeap = []  # stores smaller half (as negative numbers)
 
     def addNum(self, num: int) -> None:
-        # Step 1: Add to maxHeap (as negative)
+        # Step 1: Push to maxHeap (negate to simulate max behavior)
         heapq.heappush(self.maxHeap, -num)
 
-        # Step 2: Balance order (largest of maxHeap to minHeap)
-        if self.maxHeap and self.minHeap and (-self.maxHeap[0] > self.minHeap[0]):
-            val = -heapq.heappop(self.maxHeap)
-            heapq.heappush(self.minHeap, val)
+        # Step 2: Move largest of maxHeap to minHeap
+        heapq.heappush(self.minHeap, -heapq.heappop(self.maxHeap))
 
-        # Step 3: Balance sizes
-        if len(self.maxHeap) > len(self.minHeap) + 1:
-            val = -heapq.heappop(self.maxHeap)
-            heapq.heappush(self.minHeap, val)
-
-        if len(self.minHeap) > len(self.maxHeap) + 1:
-            val = heapq.heappop(self.minHeap)
-            heapq.heappush(self.maxHeap, -val)
+        # Step 3: Balance sizes (maxHeap can have 1 extra element)
+        if len(self.minHeap) > len(self.maxHeap):
+            heapq.heappush(self.maxHeap, -heapq.heappop(self.minHeap))
 
     def findMedian(self) -> float:
-        if len(self.maxHeap) == len(self.minHeap):
-            return (-self.maxHeap[0] + self.minHeap[0]) / 2
-        elif len(self.maxHeap) > len(self.minHeap):
+        # Odd count → top of maxHeap
+        if len(self.maxHeap) > len(self.minHeap):
             return -self.maxHeap[0]
-        else:
-            return self.minHeap[0]
+        # Even count → average of tops
+        return (-self.maxHeap[0] + self.minHeap[0]) / 2
