@@ -42,6 +42,7 @@ I use C++ to solve the problems.
 | [0139-word-break](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0647-palindromic-substrings) |
@@ -86,6 +87,7 @@ I use C++ to solve the problems.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0238-product-of-array-except-self) |
@@ -120,6 +122,7 @@ I use C++ to solve the problems.
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0212-word-search-ii) |
 | [0473-matchsticks-to-square](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0473-matchsticks-to-square) |
 ## Depth-First Search
 |  |
@@ -159,6 +162,7 @@ I use C++ to solve the problems.
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
@@ -470,6 +474,7 @@ I use C++ to solve the problems.
 | [0139-word-break](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0212-word-search-ii) |
 ## Geometry
 |  |
 | ------- |
