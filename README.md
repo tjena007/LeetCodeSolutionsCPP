@@ -26,6 +26,7 @@ I use C++ to solve the problems.
 | [0355-design-twitter](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0621-task-scheduler) |
 ## String
 |  |
@@ -49,6 +50,7 @@ I use C++ to solve the problems.
 | [0242-valid-anagram](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0647-palindromic-substrings) |
 | [1304-longest-happy-string](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1304-longest-happy-string) |
 ## Sliding Window
@@ -57,6 +59,7 @@ I use C++ to solve the problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -189,6 +192,7 @@ I use C++ to solve the problems.
 | [0287-find-the-duplicate-number](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0647-palindromic-substrings) |
 ## Design
 |  |
