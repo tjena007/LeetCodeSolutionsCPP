@@ -6,30 +6,34 @@ class Solution:
         d1 = {}
         d2 = {}
 
-        for c in s1:
-            d1[c] = d1.get(c, 0) + 1
+        for char in s1:
+            d1[char] = d1.get(char,0) + 1
         
-        i, j = 0, len(s1)
+        window = len(s1)
+        l,r = 0,0
 
-        for c in s2[i:j]:
-            d2[c] = d2.get(c, 0) + 1
+        while r-l < window:
+            # print(r-l,d2,window)
+            d2[s2[r]] = d2.get(s2[r],0) + 1
+            r += 1
 
+        # print(d1,d2)
         if d1 == d2:
             return True
         
-        while j < len(s2):
-            # remove s2[i]
-            if d2[s2[i]] == 1:
-                del d2[s2[i]]
-            else:
-                d2[s2[i]] -= 1
-            i += 1
-
-            # add s2[j]
-            d2[s2[j]] = d2.get(s2[j], 0) + 1
-            j += 1
-
+        while r < len(s2):
             if d1 == d2:
                 return True
+            
+            d2[s2[l]] = d2.get(s2[l],0) - 1
+            if d2[s2[l]] == 0:
+                del d2[s2[l]]
+            l += 1
+            d2[s2[r]] = d2.get(s2[r],0) + 1
+            r += 1
         
+        if d1 == d2:
+            return True
+
         return False
+
