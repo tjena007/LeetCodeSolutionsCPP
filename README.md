@@ -113,6 +113,7 @@ I use C++ to solve the problems.
 | [0695-max-area-of-island](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
 | [0883-car-fleet](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1014-k-closest-points-to-origin) |
@@ -295,6 +296,7 @@ I use C++ to solve the problems.
 | [0287-find-the-duplicate-number](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
 ## Greedy
 |  |
