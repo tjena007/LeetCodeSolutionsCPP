@@ -84,6 +84,7 @@ I use C++ to solve the problems.
 | [0046-permutations](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0051-n-queens) |
+| [0074-search-a-2d-matrix](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0084-largest-rectangle-in-histogram) |
@@ -170,6 +171,7 @@ I use C++ to solve the problems.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0200-number-of-islands) |
@@ -292,6 +294,7 @@ I use C++ to solve the problems.
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0300-longest-increasing-subsequence) |
