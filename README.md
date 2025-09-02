@@ -117,6 +117,7 @@ I use C++ to solve the problems.
 | [0792-binary-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
 | [0883-car-fleet](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0883-car-fleet) |
+| [0907-koko-eating-bananas](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1127-last-stone-weight) |
@@ -301,6 +302,7 @@ I use C++ to solve the problems.
 | [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
+| [0907-koko-eating-bananas](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0907-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
