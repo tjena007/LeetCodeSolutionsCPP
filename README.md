@@ -28,6 +28,7 @@ I use C++ to solve the problems.
 | [0424-longest-repeating-character-replacement](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0621-task-scheduler) |
+| [1023-time-based-key-value-store](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1023-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ I use C++ to solve the problems.
 | [0424-longest-repeating-character-replacement](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0647-palindromic-substrings) |
+| [1023-time-based-key-value-store](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1023-time-based-key-value-store) |
 | [1304-longest-happy-string](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1304-longest-happy-string) |
 ## Sliding Window
 |  |
@@ -212,6 +214,7 @@ I use C++ to solve the problems.
 | [0355-design-twitter](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1023-time-based-key-value-store](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -307,6 +310,7 @@ I use C++ to solve the problems.
 | [0792-binary-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1023-time-based-key-value-store) |
 ## Greedy
 |  |
 | ------- |
