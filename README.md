@@ -88,6 +88,7 @@ I use C++ to solve the problems.
 | [0046-permutations](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0074-search-a-2d-matrix) |
@@ -263,6 +264,7 @@ I use C++ to solve the problems.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1014-k-closest-points-to-origin) |
@@ -336,6 +338,7 @@ I use C++ to solve the problems.
 | [0005-longest-palindromic-substring](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
