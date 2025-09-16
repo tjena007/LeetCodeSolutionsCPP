@@ -119,6 +119,7 @@ I use C++ to solve the problems.
 | [0380-insert-delete-getrandom-o1](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0455-assign-cookies) |
 | [0473-matchsticks-to-square](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0473-matchsticks-to-square) |
 | [0621-task-scheduler](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0695-max-area-of-island) |
@@ -207,6 +208,7 @@ I use C++ to solve the problems.
 | [0287-find-the-duplicate-number](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0647-palindromic-substrings) |
 ## Design
@@ -234,6 +236,7 @@ I use C++ to solve the problems.
 | [0347-top-k-frequent-elements](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1014-k-closest-points-to-origin) |
@@ -332,6 +335,7 @@ I use C++ to solve the problems.
 | [0011-container-with-most-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0621-task-scheduler) |
 | [1304-longest-happy-string](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1304-longest-happy-string) |
 ## Dynamic Programming
