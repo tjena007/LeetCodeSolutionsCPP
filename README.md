@@ -128,6 +128,7 @@ I use C++ to solve the problems.
 | [0792-binary-search](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0794-swim-in-rising-water) |
 | [0883-car-fleet](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0883-car-fleet) |
+| [0890-lemonade-change](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1036-rotting-oranges) |
@@ -337,6 +338,7 @@ I use C++ to solve the problems.
 | [0435-non-overlapping-intervals](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0621-task-scheduler) |
+| [0890-lemonade-change](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/tjena007/LeetCodeSolutionsCPP/tree/master/1304-longest-happy-string) |
 ## Dynamic Programming
 |  |
